@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+}
+.first-sect{
+    background-color: #C96868;
+    padding: 5px 24px 48px 60px;
+    height: 300px;
+}
+.header-one{
+    color: white;
+}
+.f-sect-h1{
+    font-size: 40px;
+}
+.btn{
+    height: 35px;
+    width: 110px;
+    border-radius: 15px;
+    border: 1px solid black;
+    font-weight: 700px;
+    font-size: 14px;
+    margin-right: 5px;
+}
+.btn-one{
+    color: black;
+    background-color: #F8EDED;
+}
+.btn-one:hover{
+    background-color: rgb(43, 38, 38);
+    color: #F8EDED;
+    box-shadow: 1px 1px 3px rgb(71, 67, 67);
+}
+.btn-two{
+    color: white;
+    background-color: #C96868;
+}
+.btn-two:hover{
+    background-color: #1a1f1d;
+    color:#eff2f1;
+    box-shadow: 1px 1px 3px rgb(71, 67, 67);
+}
+.main-img{
+    float: right;
+    height: 350px;
+    margin-right: 100px;
+}
+.para{
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+.second-sect{
+    background-color: #eff2f1;
+    padding: 30px 24px 48px 60px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 250px 250px 250px;
+    gap: 100px;
+    margin-left: 120px;
+    margin-bottom: 50%;
+    margin-top: 4.5rem;
+}
+.main-grid{
+    display: grid;
+    grid-template-columns: 170px 200px 200px 200px;
+    
+}
+.gridd{
+    margin-top: 25%;
+}
+.img{
+    height: 250px;
+    position: relative;
+    bottom: 9rem;
+}
+.sub-grid-p{
+    margin-left: 3rem;
+    position: relative;
+    bottom: 10rem;
+}
+.sub-grid-price{
+    margin-left: 4.5rem;
+    position: relative;
+    bottom: 10rem;
+}
+
+.btn-style{
+    background-color: #C96868;
+    color: #eff2f1;
+}
+.sub-grid{
+    border: 1px solid #C96868;
+    height: 200px;
+    width: 200px;
+    border-radius: 10%;
+    border-top: none;
+    margin-top: 2.5rem;
+    padding-left: 1rem;
+}
+.sub-grid:hover{
+    background-color: #f7c4c4;
+    box-shadow: 1px 1px 3px rgb(71, 67, 67);
+}
+.cozy{
+    font-size: 30px;
+}
+.gridd > p {
+    font-size: 16px;
+}
+.btn-style:hover{
+    background-color: #1a1f1d;
+    color: #eff2f1;
+}
+.fa-solid{
+    margin-left: 5.3rem;
+    margin-top: 0.3rem;
+    width: 100px;
+    position: relative;
+    bottom: 9.4rem;
+}
+#first-subgrid{
+    background-color: #f7c4c4;
+    box-shadow: 1px 1px 3px rgb(71, 67, 67);
+}
+#imagee{
+    position: relative;
+    bottom: 10rem;
+}
+#images{
+    position: relative;
+    bottom: 11rem;
+}
